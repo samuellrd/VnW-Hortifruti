@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VnW-Hortifruti/static/css/main.3cc61ffd.css",
+    "main.js": "/VnW-Hortifruti/static/js/main.c3d5e360.js",
+    "static/js/787.324118ed.chunk.js": "/VnW-Hortifruti/static/js/787.324118ed.chunk.js",
+    "static/media/alface.png": "/VnW-Hortifruti/static/media/alface.7625fb2782bbe0c187d1.png",
+    "static/media/limao.png": "/VnW-Hortifruti/static/media/limao.f80408a1304239abb619.png",
+    "static/media/manga.png": "/VnW-Hortifruti/static/media/manga.2600d735070c74104baf.png",
+    "static/media/cereja.png": "/VnW-Hortifruti/static/media/cereja.fbc8ec1f40542a812b47.png",
+    "static/media/beterraba.png": "/VnW-Hortifruti/static/media/beterraba.5b97e7323d1c45873841.png",
+    "static/media/laranja.png": "/VnW-Hortifruti/static/media/laranja.9facf5153cc06acaf3ad.png",
+    "static/media/cenoura.png": "/VnW-Hortifruti/static/media/cenoura.c5f26c48a33cece6934a.png",
+    "static/media/tomate.png": "/VnW-Hortifruti/static/media/tomate.0fd663bf741f93510be7.png",
+    "static/media/cesta.png": "/VnW-Hortifruti/static/media/cesta.5534e19b263a248c0a7b.png",
+    "index.html": "/VnW-Hortifruti/index.html",
+    "main.3cc61ffd.css.map": "/VnW-Hortifruti/static/css/main.3cc61ffd.css.map",
+    "main.c3d5e360.js.map": "/VnW-Hortifruti/static/js/main.c3d5e360.js.map",
+    "787.324118ed.chunk.js.map": "/VnW-Hortifruti/static/js/787.324118ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc61ffd.css",
+    "static/js/main.c3d5e360.js"
+  ]
+}
